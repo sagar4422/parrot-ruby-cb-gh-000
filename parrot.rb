@@ -4,4 +4,4 @@ def parrot(type="Squawk!")
   puts type
 end
 
-parrot("parrot")
+parrot()
